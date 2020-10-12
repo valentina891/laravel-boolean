@@ -8,7 +8,7 @@
     <body>
 
         <header>
-            {{-- @include('partials/header') --}}
+            @include('partials/header')
         </header>
 
         <main>
@@ -16,7 +16,7 @@
         </main>
 
         <footer>
-            @include('partials/header')
+            @include('partials/footer')
         </footer>
 
 

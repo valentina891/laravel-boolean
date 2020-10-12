@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
 @section('titolo')
-    Home
+    Chi Siamo
+@endsection
+
+@section('content')
+
 @endsection
